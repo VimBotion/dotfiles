@@ -1,10 +1,9 @@
 return {
-  { "catppuccin/nvim" },
 
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "catppuccin",
+      colorscheme = "catppuccin-frappe",
     },
   },
 }
